@@ -1,2 +1,3 @@
-# visualisation-insight-and-dashboards
-Visualisation, Insight, Reporting and Dashboards.
+# Visualisation, Insight, Reporting and Dashboards.
+
+Repository - https://github.com/kukuu/visual-charts-dashboards
